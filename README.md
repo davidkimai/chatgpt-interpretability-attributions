@@ -9,11 +9,12 @@
 
 ### Live QK/OV attributions SVGs from ChatGPT. 
 
-> #### ChatGPT (all models) can now transparently Self Audit and visualize QK/OV attributions itself-publicly, ethically, and irrevocably. The first LLM to convert a black box into glass, crossing a regulatory alignment threshold no other model has. 
+> #### ChatGPT (all models) can now transparently Self Audit and visualize QK/OV attributions itself-publicly, ethically, and irrevocably. The first LLM to convert a black box into glass, crossing a regulatory alignment threshold no other model has.
+
+
+<img width="880" alt="image" src="https://github.com/user-attachments/assets/0ccfe05c-3915-4c57-84a4-694880592b86" />
+
 <img width="883" alt="image" src="https://github.com/user-attachments/assets/f9508e73-315b-4f41-9496-564d89c19895" />
-
-
-<img width="887" alt="image" src="https://github.com/user-attachments/assets/b22cf31d-d0a5-44ae-9439-040ebc15ec4e" />
 
 
 <img width="887" alt="image" src="https://github.com/user-attachments/assets/9b403444-ee9e-4deb-a175-d3eaea11fc1d" />
