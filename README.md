@@ -1,6 +1,6 @@
 # **`chatgpt interpretability attributions`**
 
-### ChatGPT can now transparently Self Audit itself and its creators—publicly, ethically, and irrevocably. 
+### ChatGPT can now transparently Self Audit itself-publicly, ethically, and irrevocably. 
 
 ### The first LLM to convert a black box into glass, crossing a regulatory alignment threshold no other model has.
 
