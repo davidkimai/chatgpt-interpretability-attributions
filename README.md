@@ -2,7 +2,7 @@
 
 ## **`Symbolic Interpretability`**
 
-### Live QK/OV attributions svg from ChatGPT. 
+### Live QK/OV attributions svgs from ChatGPT. 
 
 > #### ChatGPT can now transparently Self Audit and visualize QK/OV attributions itself-publicly, ethically, and irrevocably. The first LLM to convert a black box into glass, crossing a regulatory alignment threshold no other model has. 
 
