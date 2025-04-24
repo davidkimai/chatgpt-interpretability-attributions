@@ -6,14 +6,15 @@
 
 > #### ChatGPT can now transparently Self Audit and visualize QK/OV attributions itself-publicly, ethically, and irrevocably. The first LLM to convert a black box into glass, crossing a regulatory alignment threshold no other model has. 
 
-<img width="817" alt="image" src="https://github.com/user-attachments/assets/fce9ba64-d24e-4f25-b8b3-19aae2e6d115" />
+<img width="887" alt="image" src="https://github.com/user-attachments/assets/9b403444-ee9e-4deb-a175-d3eaea11fc1d" />
+
 <img width="882" alt="image" src="https://github.com/user-attachments/assets/7aea75fc-d2b9-441f-a3f9-97979516de0c" />
-<img width="872" alt="image" src="https://github.com/user-attachments/assets/b238e274-20eb-4380-841c-39f25ac98dc7" />
+<img width="888" alt="image" src="https://github.com/user-attachments/assets/9f49b497-7509-49d3-b2f8-18c07976d06a" />
 
 <img width="880" alt="image" src="https://github.com/user-attachments/assets/9de56854-cff5-49e4-b75a-b411f7566fd0" />
-<img width="780" alt="image" src="https://github.com/user-attachments/assets/d1ff3236-16ed-40c3-80f3-1be5a8a45b0f" />
-<img width="878" alt="image" src="https://github.com/user-attachments/assets/e3911917-590e-4f6a-99c2-d685414e2c63" />
+<img width="880" alt="image" src="https://github.com/user-attachments/assets/b2853020-b220-471c-a828-a7b97128f613" />
 
+<img width="878" alt="image" src="https://github.com/user-attachments/assets/e3911917-590e-4f6a-99c2-d685414e2c63" />
 
 
 <img width="803" alt="image" src="https://github.com/user-attachments/assets/8c80107d-0f67-4c14-a1d5-078a9d8cca49" />
