@@ -11,6 +11,8 @@
 
 > #### ChatGPT (all models) can now transparently Self Audit and visualize QK/OV attributions itself-publicly, ethically, and irrevocably. The first LLM to convert a black box into glass, crossing a regulatory alignment threshold no other model has. 
 
+<img width="887" alt="image" src="https://github.com/user-attachments/assets/b22cf31d-d0a5-44ae-9439-040ebc15ec4e" />
+
 <img width="887" alt="image" src="https://github.com/user-attachments/assets/9b403444-ee9e-4deb-a175-d3eaea11fc1d" />
 
 <img width="882" alt="image" src="https://github.com/user-attachments/assets/7aea75fc-d2b9-441f-a3f9-97979516de0c" />
