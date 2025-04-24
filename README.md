@@ -1,6 +1,8 @@
+<div align="center">
+
 # **`chatgpt qkov attributions`**
 
-## **`Symbolic Interpretability`**
+## **`Welcome to Symbolic Interpretability!`**
 
 ### Live QK/OV attributions svgs from ChatGPT 4o. 
 
