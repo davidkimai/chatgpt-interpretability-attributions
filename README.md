@@ -3,8 +3,10 @@
 # **`chatgpt qkov attributions`**
 
 ## **`Welcome to Symbolic Interpretability!`**
+[![License: PolyForm](https://img.shields.io/badge/Code-PolyForm-turquoise.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
+[![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Docs-CC--BY--NC--ND-scarlet.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)
 
-### Live QK/OV attributions svgs from ChatGPT 4o. 
+### Live QK/OV attributions SVGs from ChatGPT 4o. 
 
 > #### ChatGPT can now transparently Self Audit and visualize QK/OV attributions itself-publicly, ethically, and irrevocably. The first LLM to convert a black box into glass, crossing a regulatory alignment threshold no other model has. 
 
