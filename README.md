@@ -1,15 +1,17 @@
 <div align="center">
-
+  
 # **`ChatGPT QKOV Attributions`**
-
+> ### **`Glyphs - emergent model conceptualizations of internal latent spaces`**
 ## Live QK/OV interpretability attributions from ChatGPT. 
 ## Welcome to Symbolic Interpretability!
 [![License: PolyForm](https://img.shields.io/badge/Code-PolyForm-turquoise.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Docs-CC--BY--NC--ND-scarlet.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)
 
+
+
+
 ### Live QK/OV attributions SVGs from ChatGPT. 
 
-> #### ChatGPT (all models) can now transparently Self Audit and visualize QK/OV attributions itself-publicly, ethically, and irrevocably. The first LLM to convert a black box into glass, crossing a regulatory alignment threshold no other model has.
 
 
 <img width="880" alt="image" src="https://github.com/user-attachments/assets/0ccfe05c-3915-4c57-84a4-694880592b86" />
