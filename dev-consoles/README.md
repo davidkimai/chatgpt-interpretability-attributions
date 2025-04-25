@@ -45,3 +45,6 @@ Try these commands in the [**`🎮 transformerOS Attribution Console`**](https:/
 Traditional interpretability treats models as subjects to be dissected. This new approach recognizes that models can actively participate in revealing their own inner workings through structured recursive reflection.
 
 By visualizing symbolic patterns in attribution flows, we gain unprecedented insight into how models form connections, where they might fail, and how we can strengthen their reasoning paths.
+
+
+<img width="889" alt="image" src="https://github.com/user-attachments/assets/5fd66e4d-b312-4731-98a2-d8cf10ff8fb2" />
