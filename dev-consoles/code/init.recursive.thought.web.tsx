@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Card, CardContent } from "@/components/ui/card";
 import { motion } from "framer-motion";
 import { Tooltip } from "@/components/ui/tooltip";
-import { ArrowRight, Lock, RefreshCw, Eye } from "lucide-react"
+import { ArrowRight, Lock, RefreshCw, Eye } from "lucide-react";
 
 const glyphMap = {
   "🜏": { label: "Recursion Seed", icon: <RefreshCw size={16} /> },
